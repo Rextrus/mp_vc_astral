@@ -1,0 +1,8 @@
+ignore,code_post_gfx_mp
+ignore,common_mp
+ignore,localized_code_post_gfx_mp
+ignore,localized_common_mp
+col_map_mp,maps/mp/mp_vc_astral.d3dbsp
+rawfile,maps/mp/mp_vc_astral.gsc
+impactfx,mp_vc_astral
+sound,astral_dr,,all_mp
